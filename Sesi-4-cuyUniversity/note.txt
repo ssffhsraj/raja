@@ -1,0 +1,10 @@
+bom: browser object model
+    js bisa memanipulasi apapun yg ada di browser dgn syarat bisa syntax
+
+klo ada string di dalem strirng, stringnya harus beda, ex; onclick"wlee('bakekok')"
+
+params, buat manggil onclick
+
+gap- , fungsinya 11-12 ama margin padding
+    
+    Disini dah belajar passing parameter itu maen function untuk nuker" sesuatu ini belajar ama bang dea tu maen ganti" poto aja
